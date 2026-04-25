@@ -98,16 +98,14 @@ npx ts-node src/index.ts
 
 ## 📌 Future Improvements
 
-* 🌐 Add frontend (React)
 * 📊 Task analytics dashboard
 * 🔔 Notifications system
-* ☁️ Deployment (AWS / Docker)
 
 ---
 
 ## 👨‍💻 Author
 
-**Towfeeq Rameez**
+**Shaik Towfeeq Rameez**
 
 ---
 
